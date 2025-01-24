@@ -19,23 +19,11 @@ ROT13 is a symmetric cipher, meaning that applying the algorithm twice restores 
 **Plaintext:**
 Hello, World!
 
-csharp
-Copy
-Edit
-
 **Encrypted with ROT13:**
 Uryyb, Jbeyq!
 
-markdown
-Copy
-Edit
-
 **Decrypted (ROT13 again):**
 Hello, World!
-
-markdown
-Copy
-Edit
 
 ## Use Cases
 
